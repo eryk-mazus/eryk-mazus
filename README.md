@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi, i'm eryk 👋
 
 <!--
 **eryk-mazus/eryk-mazus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
